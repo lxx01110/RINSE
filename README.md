@@ -1,2 +1,2 @@
-# RINSE
+# RENA
 # Hello, World!
